@@ -35,7 +35,7 @@ function mousemove() {
 
   x0 = x1;
   y0 = y1;
-  
+
 }
 
 
@@ -57,10 +57,9 @@ svg.append('circle')
 
 //function x(d) {return d[0]; }
 //function y(d) {return d[1]; }
-// 
+//
 //svg.selectAll('circle').data(data)
 //  .enter().append('circle')
 //    .attr('cx', x)
 //    .attr('cy', y)
 //    .attr('r', 10)
-
